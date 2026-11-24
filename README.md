@@ -2,7 +2,7 @@
 
 A 6-page Power BI dashboard covering products, geography, customer segmentation, marketing channel performance and demographics for an online retailer.
 
-![Overview](screenshots/ecommerce-overview.png)
+![Overview](ecommerce-overview.png)
 
 ## Business question
 
